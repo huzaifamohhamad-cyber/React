@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  
+}
+html,
+body{
+  color: azure;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+
+ 
+}
+.btn{
+  margin: 10px;
+  padding: 5px;
+  background-color: blueviolet;
+  width: fit-content;
+  color: aliceblue;
+  border-radius: 5px;
+}
+.header{
+  padding: 5px;
+  background-color: blueviolet;
+  width: fit-content;
+  color: aliceblue;
+  border-radius: 5px;
+}
+.header button{
+  align-items: center;
+  background-color: aqua;
+  padding: 10px;
+  margin: 10pxs;
+  border-radius: 5px;
+
+}
